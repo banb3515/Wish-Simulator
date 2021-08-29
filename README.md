@@ -1,6 +1,6 @@
 # **Wish Simulator**
 
-> ### **[Portfolio - Wish-Simulator](http://banb.work/Portfolio/Wish-Simulator)**
+> ### **[Project - Wish-Simulator](http://banb.work/Project/Wish-Simulator)**
 
 ---
 
